@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+.App_brand_name{
+  color:#5c2f33;
+  display: inline-block;
+  font-size: 3em;
+  padding-left: 10px;
+  vertical-align: middle;
+}
+
+.App_logo {
+/*  animation: App_logo_spin infinite 20s linear;*/
+  height: 80px;
+  vertical-align: middle;
+}
+
+.App_header {
+  background-color: #47a28d;
+  font-family: 'Amatic SC', cursive;
+  padding:10px;
+}
+
+@keyframes App_logo_spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
